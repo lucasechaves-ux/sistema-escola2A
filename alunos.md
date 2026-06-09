@@ -12,5 +12,5 @@ Exemplo:
 
 Lista:
 
-| Lucas Emanuel | RM: 3273 | feature/Lucas Emanuel |
+| Lucas Emanuel N°19 | RM: 3273 | feature/Lucas Emanuel |
 
